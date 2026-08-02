@@ -1,4 +1,4 @@
-# Tableau Sales Dashboard
+# Tableau Superstore Sales Dashboard
 
 ## Overview
 
