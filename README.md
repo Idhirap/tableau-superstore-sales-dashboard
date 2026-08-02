@@ -34,7 +34,7 @@ Interactive Tableau dashboard created to analyze sales, profit, and order trends
 
 Created a calculated field based on the **Unit Price** column:
 
-```sql
+```text
 IF [Unit Price] <= 2500 THEN 'A'
 ELSEIF [Unit Price] <= 5000 THEN 'B'
 ELSE 'C'
@@ -56,5 +56,5 @@ END
 
 ## Dashboard Screenshot
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Dashboard_Screenshot.png)
 
