@@ -51,7 +51,7 @@ END
 
 ## Tools Used
 
-- Tableau
+- Tableau Public
 - Microsoft Excel
 
 ## Dashboard Screenshot
